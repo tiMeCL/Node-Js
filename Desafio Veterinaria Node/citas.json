@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Buffy",
+    "edad": "14 años",
+    "tipo": "perro",
+    "color": "cafe",
+    "enfermedad": "gastritis"
+  },
+  {
+    "nombre": "Haruko",
+    "edad": "4 años",
+    "tipo": "gato",
+    "color": "naranjo",
+    "enfermedad": "ninguna"
+  },
+  {
+    "nombre": "Canela",
+    "edad": "12 años",
+    "tipo": "perro",
+    "color": "cafe",
+    "enfermedad": "diabetes"
+  }
+]
